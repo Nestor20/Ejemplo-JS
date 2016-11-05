@@ -5,4 +5,3 @@ console.log("typeof undefined=>"+ typeof undefined)//=> "undefined"
 console.log("typeof null=>"+ typeof null)//"object"
 console.log("typeof new Date()=>"+ typeof new Date ())//"object"
 console.log("typeof new Function()=>"+ typeof new Function())//=>"Function"
-console.log("typeof"+15"+"1)
